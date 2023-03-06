@@ -1,0 +1,19 @@
+front end: 
+- app.js from C:\Users\JHoang\repos\class-repo\21-MERN\01-Activities\26-Stu_Resolver-Context\Solved\client\src\App.js
+	- update the app.js
+- npm i @apollo/client
+- npm run start 
+
+- fix JWT tokens 
+- signupform.js
+
+- import necessary stuff
+- line 16 const[loginUser, {error}]
+
+
+mutations.js :
+copy over login user 
+copy over add user
+
+const {data} = loginUser({
+variables: userFormData}

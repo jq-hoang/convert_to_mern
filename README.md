@@ -4,8 +4,8 @@
 
 You are required to submit BOTH of the following for review:
 
-[Link text Here](https://link-url-here.org)
-[Link text Here](https://link-url-here.org)
+## [Github Repo](https://github.com/jq-hoang/convert_to_mern)
+## [Deployed Link](https://link-url-here.org)
 
 
 ## Your Task

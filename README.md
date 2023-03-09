@@ -60,6 +60,10 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Preview Application
 
+As you can see in the following picture, a user can type a search term (in this case, "star wars") in a search box and the results appear:
+
+![demo](https://github.com/jq-hoang/convert_to_mern/blob/main/Assets/custom_demo1.png)
+
 As you can see in the following animation, a user can type a search term (in this case, "star wars") in a search box and the results appear:
 
 ![Animation shows "star wars" typed into a search box and books about Star Wars appearing as results.](./Assets/21-mern-homework-demo-01.gif)

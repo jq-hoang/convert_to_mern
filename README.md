@@ -1,9 +1,6 @@
 # 21 MERN: Book Search Engine
 
 ## Overview
-
-You are required to submit BOTH of the following for review:
-
 ## [Github Repo](https://github.com/jq-hoang/convert_to_mern)
 ## [Deployed Link](https://convertomern.herokuapp.com/)
 
